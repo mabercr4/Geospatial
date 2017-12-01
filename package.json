@@ -1,0 +1,9 @@
+{
+    "name": "anonymous",
+    "private": true,
+    "version": "0.0.1",
+    "dependencies": {
+        "make": "^0.8.1",
+        "topojson": "1"
+    }
+}
